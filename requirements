@@ -1,0 +1,33 @@
+Create a landing page for any product/CV/project
+- call for action buttons - at least 3 (CALL US/REGISTER/CLICK)
+- at least 4 sections
+- at least 5 images
+- 1 page only (index.html)
+- css, js and img folders
+- readable fonts
+- header and footer with copyrights and contact information (not necessary to be real)
+- embedded video from youtube
+Project requirements:
+Link to a git repository (10 pts max) it should have readme.md with a link to web-site, description and some screenshots (use github pages)
+JavaScript events (clicker and random Fetch API things) - (10 pts max)
+Design that is responsive (10 pts max)
+Performance test passed (10 pts max)
+Custom CSS with several classes and id's with style for div element (10 pts max)
+Clean and Valid code (10 pts max)
+----------------------------------|
+Создайте целевую страницу для любого продукта/резюме/проекта
+- кнопки призыва к действию - минимум 3 (ПОЗВОНИТЕ НАМ/РЕГИСТРАЦИЯ/КЛИКНИТЕ)
+- не менее 4 секций
+- не менее 5 изображений
+- Только 1 страница (index.html)
+- папки css, js и img
+- читаемые шрифты
+- верхний и нижний колонтитулы с авторскими правами и контактной информацией (не обязательно должны быть реальными)
+- встроенное видео с ютуба
+Требования к проекту:
+Ссылка на репозиторий git (максимум 10 баллов), в нем должен быть файл readme.md со ссылкой на веб-сайт, описание и несколько скриншотов (используйте страницы github)
+События JavaScript (кликер и случайные вещи Fetch API) - (максимум 10 баллов)
+Адаптивный дизайн (максимум 10 баллов)
+Тест производительности пройден (максимум 10 баллов)
+Пользовательский CSS с несколькими классами и идентификаторами со стилем для элемента div (максимум 10 баллов)
+Чистый и действующий код (максимум 10 баллов)
