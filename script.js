@@ -1,9 +1,12 @@
-var score = 0;
-function clicker(){
-    score += 1;
-    document.getElementById("score").innerHTML = score;
+const score = document.querySelector("#score");
 
-    switch(score) {
-        return Math.floor(Math.random() * 2);
-    }         
-}
+let clicks = 0;
+
+button.addEventListener("click", () => {
+    let color = "#";
+    color += Math.random().toString(16).slice(2,8);
+    score.style.color = color;
+
+    clicks += 1;
+    score.innerHTML = clicks;
+})
